@@ -1,0 +1,13 @@
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\bin\Debug\netcoreapp3.1\DataStructureWeb.exe
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\bin\Debug\netcoreapp3.1\DataStructureWeb.deps.json
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\bin\Debug\netcoreapp3.1\DataStructureWeb.runtimeconfig.json
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\bin\Debug\netcoreapp3.1\DataStructureWeb.runtimeconfig.dev.json
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\bin\Debug\netcoreapp3.1\DataStructureWeb.dll
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\bin\Debug\netcoreapp3.1\DataStructureWeb.pdb
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\obj\Debug\netcoreapp3.1\DataStructureWeb.csprojAssemblyReference.cache
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\obj\Debug\netcoreapp3.1\DataStructureWeb.AssemblyInfoInputs.cache
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\obj\Debug\netcoreapp3.1\DataStructureWeb.AssemblyInfo.cs
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\obj\Debug\netcoreapp3.1\DataStructureWeb.csproj.CoreCompileInputs.cache
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\obj\Debug\netcoreapp3.1\DataStructureWeb.dll
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\obj\Debug\netcoreapp3.1\DataStructureWeb.pdb
+C:\Users\mzama\source\repos\DataStructureWeb\DataStructureWeb\obj\Debug\netcoreapp3.1\DataStructureWeb.genruntimeconfig.cache
